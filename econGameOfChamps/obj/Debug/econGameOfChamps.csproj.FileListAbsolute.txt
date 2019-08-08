@@ -1,0 +1,9 @@
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\bin\Debug\econGameOfChamps.dll
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\bin\Debug\econGameOfChamps.pdb
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.csprojAssemblyReference.cache
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.Form1.resources
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.UserControl1.resources
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.csproj.GenerateResource.cache
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.csproj.CoreCompileInputs.cache
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.dll
+C:\Users\nicoa\source\repos\econGameOfChamps\econGameOfChamps\obj\Debug\econGameOfChamps.pdb

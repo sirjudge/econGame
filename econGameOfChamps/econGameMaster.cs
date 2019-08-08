@@ -1,13 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
 using econGameOfChamps;
 
 namespace econGameOfChamps
 {
     public class econGameMaster
     {
+
+        List<Player> playerList = new List<Player>();
+
         public econGameMaster()
         {
             Console.WriteLine("I am the game master");
+        }
+
+        public void addPlayerToList(Player p)
+        {
+            playerList.Add(p);
         }
 
     }
@@ -39,7 +48,7 @@ namespace econGameOfChamps
         {
             return value;
         }
-        public bool isKeyItem()
+        public bool isThisKeyItem()
         {
             return isKeyItem;
         }
